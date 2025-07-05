@@ -1,0 +1,48 @@
+.Subscribe-button {
+      background-color: rgb(223, 0, 0);
+      color: white;
+      border: none;
+      height: 34px;
+      width: 102px;
+      border-radius: 17px;
+      cursor: pointer;
+      margin-right: 6px;
+      transition: opacity 0.8 s;
+    }
+
+    .Subscribe-button:hover {
+      opacity: 0.8;
+    }
+
+    .Subscribe-button:active {
+      opacity: 0.5;
+    }
+
+
+
+
+
+
+    .join-button {
+      background-color: #065fd4;
+      /* YouTube blue color */
+      color: white;
+      padding: 8px 20px;
+      /* top-bottom, left-right */
+      border: none;
+      border-radius: 15px;
+      /* Rounded border */
+      font-size: 11px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .join-button:hover {
+      background-color: #054bb8;
+      /* Slightly darker on hover */
+    }
+
+    .join-button:active {
+      opacity: 0.5;
+    }
